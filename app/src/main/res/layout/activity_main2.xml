@@ -6,4 +6,19 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity2">
 
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="398dp"
+        android:layout_height="180dp"
+        app:srcCompat="@drawable/weeniedog"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="51dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This is a weenie dog who has little legs too"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="12dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

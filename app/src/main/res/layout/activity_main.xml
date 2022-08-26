@@ -27,5 +27,13 @@
         android:layout_height="347dp"
         app:srcCompat="@drawable/smallcat" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:text="This is the little leg cat and this little leg cat loves everyone. Say hello to little leg cat." />
+
+
+
 
 </LinearLayout>
