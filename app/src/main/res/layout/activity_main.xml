@@ -31,9 +31,13 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="65dp"
-        android:text="This is the little leg cat and this little leg cat loves everyone. Say hello to little leg cat." />
+        android:text="This is the little leg cat and this little leg cat loves everyone. Say hello to little leg cat. Beneath us is also a tiny mouse the tiny mouse is chill like that." />
 
-
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/mouse" />
 
 
 </LinearLayout>
