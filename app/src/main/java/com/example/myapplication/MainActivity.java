@@ -22,6 +22,6 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, MainActivity2.class);
         startActivity(intent);
         Toast.makeText(this, "you clicked next!", Toast.LENGTH_LONG).show();
-    }
+    }//test comment
 
 }
