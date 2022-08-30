@@ -29,7 +29,15 @@
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Back Button" />
+        android:longClickable="false"
+        android:onClick="back"
+        android:text="Previous Page" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is the end of the second page and short animals " />
 
 
 </LinearLayout>
