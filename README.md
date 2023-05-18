@@ -1,4 +1,3 @@
-# Magic101
- Magic101 was the very first project of the year it was meant for us students to get refamiliarized with Java and intellij our requirements 
- for this project included at least having five object classes 1 parent and four children classes while having a driver for each. Great way 
- to begin the school year and I'm really gonna miss this class. 
+# MyFirstApp
+this was our first reintroduction to working within android studio getting familiar with working in multiple activities
+I was focusing on getting my onclick to work and at the time I beleive I stuggled with a Toast 
